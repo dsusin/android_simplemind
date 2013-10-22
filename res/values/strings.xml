@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleMind</string>
+    <string name="action_settings">Settings</string>
+    <string name="string_checkButton">Check!</string>
+    <string name="string_congratulations">Congratulations!!</string>
+    <string name="string_loser">Ha ha, loser ;)</string>
+    <string name="string_newgame">New Game</string>
+    
+</resources>

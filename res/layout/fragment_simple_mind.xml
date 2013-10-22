@@ -1,0 +1,38 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fragment_simple_mind_tableLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:stretchColumns="*" >
+
+    <include
+        android:layout_weight="1"
+        layout="@layout/text_view_row" />
+
+    <include
+        android:layout_weight="1"
+        layout="@layout/text_view_row" />
+
+    <include
+        android:layout_weight="1"
+        layout="@layout/text_view_row" />
+
+    <include
+        android:layout_weight="1"
+        layout="@layout/text_view_row" />
+
+    <include
+        android:layout_weight="1"
+        layout="@layout/text_view_row" />
+
+    <include
+        android:layout_weight="1"
+        layout="@layout/text_view_row" />
+
+    <Button
+        android:id="@+id/fragment_simple_mind_checkButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/string_checkButton" />
+
+</TableLayout>
